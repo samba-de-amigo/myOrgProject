@@ -1,0 +1,53 @@
+#+TITLE:       Die Vorzüge von Org-mode
+#+AUTHOR:      H. F.
+#+EMAIL:       samba_de_amigo@gmx.de
+#+DATE:        <2020-08-11 Tue>
+#+DESCRIPTION: den Org-mode testen
+#+KEYWORDS:    orgmode
+#+LANGUAGE:    de
+
+* Punch line
+
+* Plot outline
+
+* Character punchlines
+
+* Character short plot synopsis
+
+* Character synopsis
+
+* Character story arcs
+
+* Four-page synopsis 
+
+* List with all story scenes maybe in a spreadsheet as a timeline
+
+* narrative description of the story 2-pages per chapter
+
+* Draft 01
+
+* Org-mode markdown
+
+- Und hier folgen nun die Gliederungspunkte.
+- Einer nach dem anderen.
+  - Gliederungen können auch
+  - geschachtelt
+    - werden.
+    - Bei Bedarf: Immer weiter einrücken.
+
+** Eine weitere Überschrift zweiter Ebene
+
+Auch Zitate können als solche ausgezeichnet werden:
+
+#+BEGIN_QUOTE
+Pageviews of Hawking’s article led the Top-10 across all language
+Wikipedias and was the most popular of the month on the Spanish,
+German, French, Portuguese, Arabic, Polish, and Farsi Wikipedias (and
+probably more). ([[https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2018-04-26/News_and_notes#Death_of_Stephen_Hawking][Wikipedia Signpost]], 26. April 2018)
+#+END_QUOTE
+
+* Nächster Abschnitt
+
+Der Text kann auch als Fließtext ausformuliert werden. Auf diese Weise
+kann man ganze Bücher schreiben, die später aus Org-mode in
+Zielformate exportiert und gesetzt werden können.
